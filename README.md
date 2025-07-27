@@ -18,7 +18,7 @@ Ce projet est une application web permettant de simuler un prêt bancaire avec d
 ## 🛠️ Technologies utilisées
 
 - HTML, CSS, JavaScript
-- [Tailwind CSS](https://tailwindcss.com/)
+
 - Hébergement via [Netlify](https://www.netlify.com/)
 
 
